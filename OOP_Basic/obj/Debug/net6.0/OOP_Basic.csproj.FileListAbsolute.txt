@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\bin\Debug\net6.0\OOP_Basic.exe
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\bin\Debug\net6.0\OOP_Basic.deps.json
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\bin\Debug\net6.0\OOP_Basic.runtimeconfig.json
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\bin\Debug\net6.0\OOP_Basic.dll
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\bin\Debug\net6.0\ref\OOP_Basic.dll
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\bin\Debug\net6.0\OOP_Basic.pdb
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\obj\Debug\net6.0\OOP_Basic.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\obj\Debug\net6.0\OOP_Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\obj\Debug\net6.0\OOP_Basic.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\obj\Debug\net6.0\OOP_Basic.AssemblyInfo.cs
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\obj\Debug\net6.0\OOP_Basic.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\obj\Debug\net6.0\OOP_Basic.dll
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\obj\Debug\net6.0\ref\OOP_Basic.dll
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\obj\Debug\net6.0\OOP_Basic.pdb
+C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\obj\Debug\net6.0\OOP_Basic.genruntimeconfig.cache
